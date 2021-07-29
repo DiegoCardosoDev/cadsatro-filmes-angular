@@ -1,0 +1,47 @@
+@import 'reset';
+@import 'themes';
+
+body {
+  margin: 0;
+}
+
+.center {
+  margin: 10px auto;
+  font-family: fantasy;
+  font-size: large;
+}
+
+.width50 {
+  width: 50%;
+}
+
+.width75 {
+  width: 75%;
+}
+
+.main-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20%;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.float-left {
+  float: left;
+}
+
+.margin10 {
+  margin: 10px;
+}
+
+.padding10 {
+  padding: 10px;
+}
+
+.quebrar-linha {
+  white-space: pre-line;
+}

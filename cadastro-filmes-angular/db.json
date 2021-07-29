@@ -1,0 +1,114 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Space Jam: Um Novo Legado 2021",
+      "urlFoto": "https://media.fstatic.com/vHt040bIQZp2Nyuzdttgd7nL8ms=/210x312/smart/media/movies/covers/2021/04/Ex-9NgsWUAUUIJX.jpg",
+      "dtLancamento": "2021-07-15T03:00:00.000Z",
+      "descricao": "O superastro do basquete LeBron James se junta à gangue Looney Tunes para derrotar o Goon Squad e salvar seu filho.",
+      "nota": 7.3,
+      "urlIMDb": "https://www.imdb.com/title/tt3554046/",
+      "genero": "Aventura"
+    },
+    {
+      "id": 2,
+      "titulo": "Viúva Negra ",
+      "urlFoto": "https://media.fstatic.com/ngr8H0pcFM8yv-dW6gvCiYtuRx8=/210x312/smart/media/movies/covers/2021/06/black_widow_ver21.jpg",
+      "dtLancamento": "2021-07-09T03:00:00.000Z",
+      "descricao": "Ao nascer, a Viúva Negra, então conhecida como Natasha Romanova, é entregue à KGB, que a prepara para se tornar sua agente suprema. Porém, o seu próprio governo tenta matá-la quando a União Soviética se desfaz.",
+      "nota": 6.9,
+      "urlIMDb": "https://www.imdb.com/title/tt3480822/?ref_=ttrel_rel_tt",
+      "genero": "Ação"
+    },
+    {
+      "id": 3,
+      "titulo": "A Guerra do Amanhã",
+      "urlFoto": "https://media.fstatic.com/SVPtcsXbALLhbchz5JKKpGsUsa8=/210x312/smart/media/movies/covers/2021/05/tomorrow_war.jpg",
+      "dtLancamento": "2021-07-02T03:00:00.000Z",
+      "descricao": "Sete jovens saem da cidade para passar um fim de semana inesquecível acampando no meio da natureza selvagem. Na volta, sua cidade já não é a mesma, suas famílias desapareceram, e eles são os únicos capazes de lutar para libertar seu povo.",
+      "nota": 6.8,
+      "urlIMDb": "https://www.imdb.com/title/tt9777666/?ref_=nv_sr_srsg_0",
+      "genero": "Ficção cientifíca"
+    },
+    {
+      "id": 4,
+      "titulo": "Luca",
+      "urlFoto": "https://media.fstatic.com/55T8k0kR2tfIvJ0tqpwgjqAiNCk=/210x312/smart/media/movies/covers/2021/04/luca_ver2.jpg",
+      "dtLancamento": "2021-18-07T03:00:00.000Z",
+      "descricao": "Na Riviera italiana, uma amizade tão forte quanto inesperada surge entre um ser humano e um monstro marinho camuflado.",
+      "nota": 7.5,
+      "urlIMDb": "https://www.imdb.com/title/tt12801262/",
+      "genero": "Animação"
+    },
+    {
+      "titulo": "Um Lugar Silencioso - Parte II",
+      "urlFoto": "https://media.fstatic.com/GcQrtgtk-j74gmWxwlJ9SVvnlhM=/210x312/smart/media/movies/covers/2020/03/a_quiet_place_part_ii.jpg",
+      "dtLancamento": "2021-06-14T03:00:00.000Z",
+      "descricao": "Após os eventos em casa, a família Abbott agora enfrenta os terrores do mundo exterior. Forçados a se aventurar no desconhecido, eles percebem que as criaturas que caçam não são as únicas ameaças ocultas pelo caminho.",
+      "nota": 6,
+      "urlIMDb": "https://www.imdb.com/title/tt8332922/",
+      "genero": "Suspense",
+      "id": 10
+    },
+    {
+      "id": 12,
+      "titulo": "Cruella",
+      "urlFoto": "https://media.fstatic.com/Pmjdu5cdy0SNpHqC00llpEtONDs=/210x312/smart/media/movies/covers/2021/04/cruella_ver3.jpg",
+      "dtLancamento": "2021-05-16T03:00:00.000Z",
+      "descricao": "Uma prequela sobre a vida da jovem Cruella de Vil.",
+      "nota": 7.4,
+      "urlIMDb": "https://www.imdb.com/title/tt3228774/",
+      "genero": "Aventura"
+    },
+    {
+      "titulo": "Velozes & Furiosos 9",
+      "urlFoto": "https://media.fstatic.com/dzQX_sxhz9HIATT06yFfB9laV_I=/210x312/smart/media/movies/covers/2020/02/unnamed_1.jpg",
+      "dtLancamento": "2021-07-09T03:00:00.000Z",
+      "descricao": "Cipher pede a ajuda de Jakob, o irmão mais novo de Dom para se vingar dele e sua equipe.\n\n",
+      "nota": 7,
+      "urlIMDb": "https://www.imdb.com/title/tt5433138/",
+      "genero": "Ação",
+      "id": 14
+    },
+    {
+      "titulo": "Anônimo",
+      "urlFoto": "https://media.fstatic.com/uhNWrLiyNPJb7OXIhq25JbBLv7A=/210x312/smart/media/movies/covers/2020/12/nobody-poster.jpg",
+      "dtLancamento": "2021-05-12T03:00:00.000Z",
+      "descricao": "Um garoto intervém para ajudar uma mulher sendo assediada por um grupo de homens, ele se torna o alvo de um traficante vingativo.",
+      "nota": 7.4,
+      "urlIMDb": "https://www.imdb.com/title/tt7888964/?ref_=ttls_li_tt",
+      "genero": "Ação",
+      "id": 15
+    },
+    {
+      "titulo": "Judas e o Messias Negro",
+      "urlFoto": "https://media.fstatic.com/Sffllihsj3aV1W3LGTVuwNN44cc=/210x312/smart/media/movies/covers/2021/01/judas_and_the_black_messiah_ver2.jpg",
+      "dtLancamento": "2021-05-06T03:00:00.000Z",
+      "descricao": "A história de Fred Hampton, presidente do Partido Pantera Negra de Illinois, e sua fatídica traição pelo informante do FBI William O'Neal.\n\n",
+      "nota": 7.5,
+      "urlIMDb": "https://www.imdb.com/title/tt9784798/",
+      "genero": "Drama",
+      "id": 16
+    },
+    {
+      "titulo": "Jobs",
+      "urlFoto": "https://media.fstatic.com/4I9Cf9pgzkBydUng0rqP-Ye4L8Y=/210x312/smart/media/movies/covers/2013/07/jobs_t54811.jpg",
+      "dtLancamento": "2013-09-06T03:00:00.000Z",
+      "descricao": "A história da ascensão de Steve Jobs, desde o abandono da faculdade até tornar-se um dos empreendedores criativos mais reverenciados do século 20.\n\n",
+      "nota": 6,
+      "urlIMDb": "https://www.imdb.com/title/tt2357129/",
+      "genero": "Drama",
+      "id": 17
+    },
+    {
+      "titulo": "The Imitation Game ",
+      "urlFoto": "https://media.fstatic.com/xEURS3cQvBqyDzs-fHW9MmFuMBw=/210x312/smart/media/movies/covers/2014/09/the-imitation-game_t81308_1.jpg",
+      "dtLancamento": "2015-02-15T02:00:00.000Z",
+      "descricao": "Durante a segunda guerra mundial, um inglés genio da matemática tenta decifrar o código enigma alemão com ajuda de seus colegas",
+      "nota": 8,
+      "urlIMDb": " https://www.imdb.com/title/tt2084970/",
+      "genero": "Ficção cientifica",
+      "id": 18
+    }
+  ]
+}
