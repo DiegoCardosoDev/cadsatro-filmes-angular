@@ -5,9 +5,9 @@
 
 ## Ambiente Local
 
-1.Angular
-1.Node.Js
-1.IDE Vs Code
+Angular -
+Node.Js -
+IDE Vs Code -
 
 ## Simulando o Back-end
 
