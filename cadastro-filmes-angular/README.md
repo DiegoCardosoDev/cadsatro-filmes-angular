@@ -5,6 +5,10 @@
 
 ## Ambiente Local
 
+.Angular
+.Node.Js
+.IDE Vs Code
+
 ## Simulando o Back-end
 
 ## Gerendo componente
