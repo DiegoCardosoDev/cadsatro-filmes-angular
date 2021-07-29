@@ -1,13 +1,10 @@
+
+
 # Curso Intermediário de Angular - Digital Innovation One
 
-Esse curso foi feito para a plataforma [Digital Innovation One](https://digitalinnovation.one/)
 
-O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos cursos de outros usuários.
+# Curso Intermediário de Angular - Digital Innovation One
 
-## Instalação
-
-1. clone o repositório `git clone git@github.com:RenanRB/curso-angular.git`
-2. Entre no projeto e instale as dependencias `npm install`
 
 ## Ambiente Local
 
@@ -25,3 +22,5 @@ Execute `ng generate component nome-do-componente` para criar um novo componente
 
 Execute `ng build` para gerar o compilado do projeto. O projeto vai ser criado dentro do diretório `dist/`. Adicionar `--prod` junto comando de build para gerar minificado e pronto para o ambiente de produção.
 
+![img1](https://user-images.githubusercontent.com/83510729/127482136-28b69adb-d6d9-4076-bfef-d7a68b661f49.png)
+![localhost3000](https://user-images.githubusercontent.com/83510729/127482172-493bdde2-9a35-4287-99bb-4105983baf81.png)
